@@ -1,0 +1,4 @@
+def end():
+    repeat 4:
+        move()
+end()
